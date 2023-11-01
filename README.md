@@ -6,6 +6,9 @@ Using Liner Regression to predict the price of BTD
       ----LinearRegression.ipynb
       ----polynomialRegression.ipynb
       ----BTC-USD.csv
+ ---- LogisticRegression
+      ----simpleLogic.ipynb
+      ----spam.csv
 
 ```
 Methods:
@@ -13,3 +16,4 @@ Methods:
 - polynomial regression
 - cross validation
 - cost function
+- PCA
